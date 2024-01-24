@@ -1,0 +1,20 @@
+﻿  lab2.cpp
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(214,25): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(248,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(325,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(326,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(327,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(328,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(334,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(335,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(336,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(337,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(339,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(191,37): warning C4101: 'e': unreferenced local variable
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(230,37): warning C4101: 'e': unreferenced local variable
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(294,36): warning C4101: 'e': unreferenced local variable
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(390,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\lab2.cpp(420,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  lab2.vcxproj -> C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos_proba\lab2\x64\Debug\lab2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

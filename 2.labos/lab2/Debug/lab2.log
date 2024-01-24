@@ -1,0 +1,21 @@
+﻿  lab2.cpp
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(208,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(303,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(304,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(304,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(304,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(310,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(331,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(334,58): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(335,58): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(336,65): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(359,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(360,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(369,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(370,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(371,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(372,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\lab2.cpp(376,20): warning C4018: '<': signed/unsigned mismatch
+  lab2.vcxproj -> C:\Users\Lovro Srebacic\Desktop\faks\diplomski\3.semestar\ra\labosi\2.labos\lab2\Debug\lab2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
